@@ -1,0 +1,23 @@
+import  a scanner
+
+declare int for age and weight 
+float for height
+char gender, criminal record and d in pass, course
+
+create input scanner
+ user input for age, height, weight, gender ,criminal record and pass irish
+
+D in pass Irish
+   if not then take 10 week course
+
+if age is over 18  and less than 35, 
+ height is above 1.85 for male and 1.6 for female
+ weight lower than 100
+ no criminal record
+
+  
+
+ say you are eligible to join
+
+else
+ you are not eligible to join
